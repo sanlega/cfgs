@@ -20,6 +20,8 @@ alias donlimpio=/Users/slegaris/francinette/bin/clean_cache.sh
 
 alias la='ls -la'
 
+alias l=ls
+
 alias cl=clear
 
 export PATH=$PATH:/Users/slegaris/scripts
