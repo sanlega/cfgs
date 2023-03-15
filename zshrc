@@ -26,6 +26,8 @@ alias cl=clear
 
 alias g=git
 
+alias reload="source ~/.zshrc"
+
 export PATH=$PATH:/Users/slegaris/scripts
 
 source ~/.commacd.sh
