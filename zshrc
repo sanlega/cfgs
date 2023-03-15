@@ -14,7 +14,7 @@ alias shawarma=/Users/slegaris/libft-war-machine/grademe.sh
 
 alias carlos='ssh -p 22 root@157.245.20.82'
 
-alias n=nvim
+alias n=/Users/slegaris/.config/nvim-macos/bin/nvim
 
 alias donlimpio=/Users/slegaris/francinette/bin/clean_cache.sh
 
