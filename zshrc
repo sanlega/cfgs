@@ -24,6 +24,8 @@ alias l=ls
 
 alias cl=clear
 
+alias g=git
+
 export PATH=$PATH:/Users/slegaris/scripts
 
 source ~/.commacd.sh
